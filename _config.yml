@@ -28,3 +28,5 @@ transfer:
   settings: -av
   source: _site/
   destination: ~/Git/clayh53.github.com/
+sass:
+    sass_dir: _scss

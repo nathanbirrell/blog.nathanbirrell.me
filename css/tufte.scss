@@ -1,0 +1,20 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+/*****************************************************************************/
+/*
+/* Tufte Jekyll blog theme
+/* Based on Tufte CSS by Dave Liepmann ( https://github.com/daveliepmann/tufte-css )
+/* 
+/* The README.md will show you how to set up your site along with other goodies
+/*****************************************************************************/
+
+// Imports to create final 
+
+@import "fonts";
+@import "settings";
+@import "syntax-highlighting";
+@import "latex";
+@import "tufte-styles";
+@import "tufte-theme";
